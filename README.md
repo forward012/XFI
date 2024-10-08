@@ -60,7 +60,9 @@ You'll need to install Node.js >=v14.16+ (Recommended Version) (NPM comes along 
 - Then run : <code>npm run dev</code>
 
 Now, in the browser go to <code>localhost:5173</code>
-
+- 10+ Dashboard UI Components
+- 50+ Total UI Tags 
+- 10+ HTML Files
 **For Production Build**
 Run : <code>npm run build</code>
 
